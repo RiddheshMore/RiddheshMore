@@ -1,10 +1,8 @@
-<h2 align="left">Hi 👋! I'm Riddhesh More <br><br>🔍 Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems  <br>🚀 Currently collaborating with Fraunhofer IPA on semantic modeling for reusable ROS components  <br>🧠 Exploring NLP, deep learning, and grasping-based object recognition<br><br>💡 I love building scalable, interpretable robotics solutions—from face detection models to GPT-driven essay evaluators.  <br>Always learning, experimenting, and contributing where software meets autonomy.<br><br>📂 Check out some of my featured projects below, and feel free to connect!</h2>
+<h2 align="left">Hello World!, I'm Riddhesh, a Robotics Software Developer 👋🏼:<br>🔍 Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems  <br>🚀 Currently collaborating with Fraunhofer IPA on semantic modeling for reusable ROS components  <br>🧠 Exploring NLP, deep learning, and grasping-based object recognition<br><br>💡 I love building scalable, interpretable robotics solutions—from face detection models to GPT-driven essay evaluators.  <br>Always learning, experimenting, and contributing where software meets autonomy.<br><br>📂 Check out some of my featured projects below, and feel free to connect!</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiddheshMore&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">💻 Tech Stack:</p>
 
 ###
 
