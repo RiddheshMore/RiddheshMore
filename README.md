@@ -62,11 +62,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/RiddheshMore/RiddheshMore/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/8bag79.gif"  />
