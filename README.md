@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="200" src="https://imgflip.com/gif/8bag79"  />
 </div>
 
 ###
