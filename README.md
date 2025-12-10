@@ -1,8 +1,8 @@
-<h2 align="left">Hello World!, I'm Riddhesh, a Robotics Software Developer 👋🏼:</h2>
+<h2 align="left">Hello World!, I'm Riddhesh, a AI X Robotics Student👋🏼:</h2>
 
 ###
 
-<p align="left">🔍 Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems  <br>🚀 Currently collaborating with Fraunhofer IPA on semantic modeling for reusable ROS components  <br>🧠 Exploring NLP, deep learning, and grasping-based object recognition<br><br>💡 I love building scalable, interpretable robotics solutions—from face detection models to GPT-driven essay evaluators.  <br>Always learning, experimenting, and contributing where software meets autonomy.<br><br>📂 Check out some of my featured projects below, and feel free to connect!</p>
+<p align="left">🔍 Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems <br>📂 Check out some of my featured projects below, and feel free to connect!</p>
 
 ###
 
