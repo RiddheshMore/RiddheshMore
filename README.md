@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🔍 Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems <br>📂 Check out some of my featured projects below, and feel free to connect!</p>
+<p align="left"> Master’s student in Autonomous Systems at Hochschule Bonn-Rhein-Sieg  <br>🤖 Passionate about Robotics, AI, and modular software for intelligent systems <br>📂 Check out some of my featured projects below, and feel free to connect!</p>
 
 ###
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left"> Tech Stack:</h3>
 
 ###
 
